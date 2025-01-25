@@ -7,5 +7,5 @@ This is a test resource
 Hi
 
 Hello New Danger World !!!
-This is a test resource by varun
+This is a test resource
 Hi
