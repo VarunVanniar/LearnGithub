@@ -1,1 +1,13 @@
 git clone  https://github.com/VarunVanniar/LearnGithub.git
+
+git add -A
+
+git add <<FileName with root respective path>>
+
+git commit -m "Message Here"
+
+git push origin <<branch name>>
+
+git pull origin <<branch name>>
+
+git checkout -b <<new branch name>> <<base branch name>>
